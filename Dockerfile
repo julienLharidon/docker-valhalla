@@ -33,6 +33,7 @@ ENV use_tiles_ignore_pbf=True
 ENV build_tar=True
 ENV serve_tiles=True
 ENV update_existing_config=True
+ENV tile_urls=https://download.geofabrik.de/europe/france-latest.osm.pbf
 
 ENV default_speeds_config_url="https://raw.githubusercontent.com/OpenStreetMapSpeeds/schema/master/default_speeds.json"
 
